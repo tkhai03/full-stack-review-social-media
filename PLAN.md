@@ -41,3 +41,7 @@
 
 ## DB
 <img src='./assets/schema.png' />
+
+## Component Tree
+
+<img src='assets/component-tree.png'>
